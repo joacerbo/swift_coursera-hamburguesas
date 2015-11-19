@@ -14,6 +14,7 @@
 		9B4970E81BFCF63F00A52583 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B4970E61BFCF63F00A52583 /* LaunchScreen.storyboard */; };
 		9B4970F31BFCF63F00A52583 /* HamburguesasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B4970F21BFCF63F00A52583 /* HamburguesasTests.swift */; };
 		9B4970FE1BFCF63F00A52583 /* HamburguesasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B4970FD1BFCF63F00A52583 /* HamburguesasUITests.swift */; };
+		9B49710C1BFCF6AA00A52583 /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B49710B1BFCF6AA00A52583 /* Datos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9B4970F91BFCF63F00A52583 /* HamburguesasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HamburguesasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B4970FD1BFCF63F00A52583 /* HamburguesasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamburguesasUITests.swift; sourceTree = "<group>"; };
 		9B4970FF1BFCF63F00A52583 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B49710B1BFCF6AA00A52583 /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				9B4970DD1BFCF63E00A52583 /* AppDelegate.swift */,
+				9B49710B1BFCF6AA00A52583 /* Datos.swift */,
 				9B4970DF1BFCF63E00A52583 /* ViewController.swift */,
 				9B4970E11BFCF63E00A52583 /* Main.storyboard */,
 				9B4970E41BFCF63F00A52583 /* Assets.xcassets */,
@@ -258,6 +261,7 @@
 			files = (
 				9B4970E01BFCF63E00A52583 /* ViewController.swift in Sources */,
 				9B4970DE1BFCF63E00A52583 /* AppDelegate.swift in Sources */,
+				9B49710C1BFCF6AA00A52583 /* Datos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
